@@ -2,7 +2,7 @@
     "data": [
         {
 
-            "network": "is",
+            "network": "admob",
 
             "max_ban": "bc8c90ca781662b8",
             "max_int": "41dd5fecde3e07e6",
@@ -11,8 +11,8 @@
             "is_ban": "10528499",
             "is_int": "10528497",
 
-            "admob_ban": "ca-app-pub-4124628059206023/1941264336",
-            "admob_int": "ca-app-pub-4124628059206023/5497365962",
+            "admob_ban": "ca-app-pub-4124628059206023/9276343036",
+            "admob_int": "ca-app-pub-4124628059206023/8230892662",
 
             "name": "Santa Claus",
             "photo": "https://hichamhiya.github.io/santainsta/profile.jpg",
